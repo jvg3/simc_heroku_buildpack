@@ -1,4 +1,5 @@
 chmod +r $1/apikey.txt
+mkdir ./tmp/reports
 cd $1/simc/engine
 make
 cd $1
