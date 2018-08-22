@@ -1,0 +1,3 @@
+cd simc/engine
+make
+cd ../..
