@@ -1,3 +1,4 @@
+chmod +r $1/apikey.txt
 cd $1/simc/engine
 make
 cd $1
