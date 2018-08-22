@@ -1,5 +1,5 @@
 chmod +r $1/apikey.txt
 mkdir ./tmp/reports
 cd $1/simc/engine
-make
+make OPENSSL=1 optimized
 cd $1
