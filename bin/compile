@@ -1,3 +1,3 @@
-cd simc/engine
+cd $1/simc/engine
 make
-cd ../..
+cd $1
